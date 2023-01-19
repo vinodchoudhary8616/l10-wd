@@ -16,7 +16,7 @@
       "prettier --write ."
     ]
   },
-  "author": "Vineeth",
+  "author": "Vinod",
   "license": "ISC",
   "devDependencies": {
     "cheerio": "^1.0.0-rc.12",
